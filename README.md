@@ -1,11 +1,11 @@
-## Hola soy Abraham Soto, programador backend WEB APIs!
+## Hi, I'm Abraham Soto, a backend web API programmer!
 ### English
 I am a passionate .NET programmer who is constantly seeking growth and development in this exciting technology. In addition to .NET, I also use Python for developing APIs. My greatest passion is creating efficient and elegant solutions for the technological challenges that come my way. I am committed to staying up-to-date with the latest trends in .NET development and Python, with the goal of becoming a highly skilled developer in these fields.
 
 In addition to my focus on .NET and Python, I'm also interested in expanding my knowledge in other technological areas, such as React, React Native, and Blazor. I believe that versatility is key to success in the programming world, and I'm excited to explore these paths.
 
 In my free time, I find balance and enjoyment in various activities. I greatly enjoy playing basketball, as it allows me to unwind and stay in shape. I'm also an avid consumer of science fiction movies, as I draw inspiration from the futuristic concepts they explore. Additionally, my passion for video games not only helps me relax but also provides me with a fresh mental perspective to approach programming challenges with renewed enthusiasm.
-
+## Hola soy Abraham Soto, programador backend WEB APIs!
 ### Español
 Soy un apasionado programador de .NET que busca constantemente el crecimiento y desarrollo en esta emocionante tecnología. Además de .NET, también utilizo Python para desarrollar APIs. Mi mayor pasión es crear soluciones eficientes y elegantes para los desafíos tecnológicos que se me presentan. Estoy comprometido en mantenerme al día con las últimas tendencias en el desarrollo de .NET y Python, con el objetivo de convertirme en un desarrollador altamente competente en estos campos.
 
