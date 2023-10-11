@@ -7,13 +7,13 @@ Además de mi enfoque en .NET, también estoy interesado en expandir mis conocim
 En mi tiempo libre, encuentro equilibrio y diversión en diferentes actividades. Disfruto mucho jugando al baloncesto, ya que me permite desconectar y mantenerme en forma. También soy un ávido consumidor de películas de ciencia ficción, ya que encuentro inspiración en los conceptos futuristas que exploran. Además, soy un apasionado de los videojuegos, lo que no solo me relaja, sino que también me brinda un nuevo enfoque mental para enfrentar mis desafíos en la programación con renovado entusiasmo."
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-DotNet" height="30" width="40" src="https://icons8.com/icon/gfGWyRXMS1Fu/.net-or-%22dot-net%22-a-software-framework-developed-by-microsoft">
+
 </div>
   
   ##
