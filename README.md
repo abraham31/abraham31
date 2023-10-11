@@ -13,7 +13,7 @@ Además de mi enfoque en .NET y Python, también estoy interesado en ampliar mis
 
 En mi tiempo libre, encuentro equilibrio y diversión en diversas actividades. Disfruto mucho jugando al baloncesto, ya que me permite relajarme y mantenerme en forma. También soy un ávido consumidor de películas de ciencia ficción, ya que encuentro inspiración en los conceptos futuristas que exploran. Además, mi pasión por los videojuegos no solo me ayuda a relajarme, sino que también me brinda una perspectiva mental fresca para abordar los desafíos de programación con renovado entusiasmo.
 
-### Lenguajes que domino.
+### Lenguajes que domino: / Languages I master:
 <div style="display: inline_block"><br>
   <img align="center" alt="Abraham-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Abraham-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -23,7 +23,7 @@ En mi tiempo libre, encuentro equilibrio y diversión en diversas actividades. D
 
 </div>
 
-  ### Tecnologias que domino.
+  ### Tecnologias que domino: / Technologies I master:
   <div style="display: inline_block"><br>
   <img align="center" alt="Abraham-dotnetr" height="30" width="40" src="./imgrepo/dot-net-core-7.svg">
     <img align="center" alt="Abraham-Fastapi" height="30" width="40" src="./imgrepo/fastapi-1.svg">
@@ -32,7 +32,7 @@ En mi tiempo libre, encuentro equilibrio y diversión en diversas actividades. D
 
   </div>
 
-  ### Actualmene me encuentro aprendiendo.
+  ### Actualmene me encuentro aprendiendo: / Currently, I am learning:
   <div style="display: inline_block"><br>
   <img align="center" alt="Abraham-Angular" height="30" width="40" src="./imgrepo/angular-icon-1.svg">
   <img align="center" alt="Abraham-Blazor" height="30" width="40" src="./imgrepo/blazor.svg">
