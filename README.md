@@ -19,6 +19,7 @@ En mi tiempo libre, encuentro equilibrio y diversión en diferentes actividades.
   ### Tecnologias que domino.
   <div style="display: inline_block"><br>
   <img align="center" alt="Abraham-dotnetr" height="30" width="40" src="./imgrepo/dot-net-core-7.svg">
+    <img align="center" alt="Abraham-Fastapi" height="30" width="40" src="./imgrepo/fastapi-1.svg">
   <img align="center" alt="Abraham-Docker" height="30" width="40" src="./imgrepo/docker-4.svg">
   <img align="center" alt="Abraham-kubernets" height="30" width="40" src="./imgrepo/kubernets.svg">
 
