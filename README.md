@@ -6,7 +6,7 @@ Además de mi enfoque en .NET, también estoy interesado en expandir mis conocim
 
 En mi tiempo libre, encuentro equilibrio y diversión en diferentes actividades. Disfruto mucho jugando al baloncesto, ya que me permite desconectar y mantenerme en forma. También soy un ávido consumidor de películas de ciencia ficción, ya que encuentro inspiración en los conceptos futuristas que exploran. Además, soy un apasionado de los videojuegos, lo que no solo me relaja, sino que también me brinda un nuevo enfoque mental para enfrentar mis desafíos en la programación con renovado entusiasmo."
 
-### Tecnologias y lenguajes que manejo.
+### Lenguajes que domino.
 <div style="display: inline_block"><br>
   <img align="center" alt="Abraham-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Abraham-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
