@@ -1,10 +1,16 @@
 ## Hola soy Abraham Soto, programador backend WEB APIs!
 
-"Soy un apasionado programador de .NET que busca constantemente el crecimiento y desarrollo en esta emocionante tecnología. Mi mayor pasión es crear soluciones eficientes y elegantes para los desafíos tecnológicos que se me presentan. Estoy comprometido en mantenerme al día con las últimas tendencias en el desarrollo .NET, con el objetivo de convertirme en un desarrollador altamente competente en este campo.
+I am a passionate .NET programmer who is constantly seeking growth and development in this exciting technology. In addition to .NET, I also use Python for developing APIs. My greatest passion is creating efficient and elegant solutions for the technological challenges that come my way. I am committed to staying up-to-date with the latest trends in .NET development and Python, with the goal of becoming a highly skilled developer in these fields.
 
-Además de mi enfoque en .NET, también estoy interesado en expandir mis conocimientos en otras áreas tecnológicas, como Python, React, React Native y Blazor. Creo que la versatilidad es clave para el éxito en el mundo de la programación, y estoy emocionado por explorar estos caminos.
+In addition to my focus on .NET and Python, I'm also interested in expanding my knowledge in other technological areas, such as React, React Native, and Blazor. I believe that versatility is key to success in the programming world, and I'm excited to explore these paths.
 
-En mi tiempo libre, encuentro equilibrio y diversión en diferentes actividades. Disfruto mucho jugando al baloncesto, ya que me permite desconectar y mantenerme en forma. También soy un ávido consumidor de películas de ciencia ficción, ya que encuentro inspiración en los conceptos futuristas que exploran. Además, soy un apasionado de los videojuegos, lo que no solo me relaja, sino que también me brinda un nuevo enfoque mental para enfrentar mis desafíos en la programación con renovado entusiasmo."
+In my free time, I find balance and enjoyment in various activities. I greatly enjoy playing basketball, as it allows me to unwind and stay in shape. I'm also an avid consumer of science fiction movies, as I draw inspiration from the futuristic concepts they explore. Additionally, my passion for video games not only helps me relax but also provides me with a fresh mental perspective to approach programming challenges with renewed enthusiasm.
+
+Soy un apasionado programador de .NET que busca constantemente el crecimiento y desarrollo en esta emocionante tecnología. Además de .NET, también utilizo Python para desarrollar APIs. Mi mayor pasión es crear soluciones eficientes y elegantes para los desafíos tecnológicos que se me presentan. Estoy comprometido en mantenerme al día con las últimas tendencias en el desarrollo de .NET y Python, con el objetivo de convertirme en un desarrollador altamente competente en estos campos.
+
+Además de mi enfoque en .NET y Python, también estoy interesado en ampliar mis conocimientos en otras áreas tecnológicas, como React, React Native y Blazor. Creo que la versatilidad es clave para el éxito en el mundo de la programación, y estoy emocionado por explorar estos caminos.
+
+En mi tiempo libre, encuentro equilibrio y diversión en diversas actividades. Disfruto mucho jugando al baloncesto, ya que me permite relajarme y mantenerme en forma. También soy un ávido consumidor de películas de ciencia ficción, ya que encuentro inspiración en los conceptos futuristas que exploran. Además, mi pasión por los videojuegos no solo me ayuda a relajarme, sino que también me brinda una perspectiva mental fresca para abordar los desafíos de programación con renovado entusiasmo.
 
 ### Lenguajes que domino.
 <div style="display: inline_block"><br>
