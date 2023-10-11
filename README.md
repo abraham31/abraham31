@@ -8,16 +8,21 @@ En mi tiempo libre, encuentro equilibrio y diversión en diferentes actividades.
 
 ### Tecnologias y lenguajes que manejo.
 <div style="display: inline_block"><br>
+  <img align="center" alt="Abraham-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Abraham-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Abraham-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Abraham-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Abraham-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Abraham-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Abraham-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Abraham-Docker" height="30" width="40" src="./imgrepo/docker-4.svg">
-  <img align="center" alt="Abraham-kubernets" height="30" width="40" src="./imgrepo/kubernets.svg">
-  <img align="center" alt="Abraham-dotnetr" height="30" width="40" src="./imgrepo/dot-net-core-7.svg">
 
 </div>
+
+  ### Tecnologias que domino.
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Abraham-dotnetr" height="30" width="40" src="./imgrepo/dot-net-core-7.svg">
+  <img align="center" alt="Abraham-Docker" height="30" width="40" src="./imgrepo/docker-4.svg">
+  <img align="center" alt="Abraham-kubernets" height="30" width="40" src="./imgrepo/kubernets.svg">
+
+  </div>
 
   ### Actualmene me encuentro aprendiendo.
   <div style="display: inline_block"><br>
@@ -29,7 +34,8 @@ En mi tiempo libre, encuentro equilibrio y diversión en diferentes actividades.
 
   
   ##
- 
+
+ Contacto.
 <div> 
   <a href = "mailto:abraham.soto3031@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
