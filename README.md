@@ -37,7 +37,9 @@ En mi tiempo libre, encuentro equilibrio y diversión en diferentes actividades.
   ##
 
  Contacto.
- <button>https://www.linkedin.com/in/jasa-abraham-soto/<button/>
+ <div>
+   <button>https://www.linkedin.com/in/jasa-abraham-soto/<button/>
+ </div> 
 <div> 
   <a href = "mailto:abraham.soto3031@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
