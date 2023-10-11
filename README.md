@@ -1,7 +1,10 @@
 ## Hola soy Abraham Soto, programador backend WEB APIs!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+"Soy un apasionado programador de .NET que busca constantemente el crecimiento y desarrollo en esta emocionante tecnología. Mi mayor pasión es crear soluciones eficientes y elegantes para los desafíos tecnológicos que se me presentan. Estoy comprometido en mantenerme al día con las últimas tendencias en el desarrollo .NET, con el objetivo de convertirme en un desarrollador altamente competente en este campo.
+
+Además de mi enfoque en .NET, también estoy interesado en expandir mis conocimientos en otras áreas tecnológicas, como Python, React, React Native y Blazor. Creo que la versatilidad es clave para el éxito en el mundo de la programación, y estoy emocionado por explorar estos caminos.
+
+En mi tiempo libre, encuentro equilibrio y diversión en diferentes actividades. Disfruto mucho jugando al baloncesto, ya que me permite desconectar y mantenerme en forma. También soy un ávido consumidor de películas de ciencia ficción, ya que encuentro inspiración en los conceptos futuristas que exploran. Además, soy un apasionado de los videojuegos, lo que no solo me relaja, sino que también me brinda un nuevo enfoque mental para enfrentar mis desafíos en la programación con renovado entusiasmo."
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
