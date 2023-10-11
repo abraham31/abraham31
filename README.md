@@ -6,6 +6,7 @@ Además de mi enfoque en .NET, también estoy interesado en expandir mis conocim
 
 En mi tiempo libre, encuentro equilibrio y diversión en diferentes actividades. Disfruto mucho jugando al baloncesto, ya que me permite desconectar y mantenerme en forma. También soy un ávido consumidor de películas de ciencia ficción, ya que encuentro inspiración en los conceptos futuristas que exploran. Además, soy un apasionado de los videojuegos, lo que no solo me relaja, sino que también me brinda un nuevo enfoque mental para enfrentar mis desafíos en la programación con renovado entusiasmo."
 
+# Tecnologias que manejo.
 <div style="display: inline_block"><br>
   <img align="center" alt="Abraham-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Abraham-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,6 +21,8 @@ En mi tiempo libre, encuentro equilibrio y diversión en diferentes actividades.
   <img align="center" alt="Abraham-dotnetr" height="30" width="40" src="./imgrepo/dot-net-core-7.svg">
 
 </div>
+
+  # Tecnologias que manejo.
   
   ##
  
